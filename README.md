@@ -1,4 +1,4 @@
-Simple personal website using template from:
+Simple personal website using the below template as reference:
 
 https://github.com/RyanFitzgerald/devportfolio
 
