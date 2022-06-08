@@ -1,3 +1,3 @@
 Simple personal website using template from:
 
-https://github.com/giotsere/minimalist-portfolio
+https://github.com/RyanFitzgerald/devportfolio
