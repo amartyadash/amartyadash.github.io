@@ -1,49 +1,302 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <title>Your Name</title>
-</head>
-    
-<body>
-    <div class="grid-2">
-        <div class="section-1">
-            <i class="fas fa-code fa-5x white"></i>
-            <h2>Amartya Dash</h2>
-            <p>Bengaluru, India.</p>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-linkedin"></i></a>
-            <a href="#"><i class="fab fa-github"></i></a>
-        </div>
-        <div class="section-2">
-            <h2>About</h2>
-            <p>Interested in Data Science, Robotics, Image Processing and Anime. Y18, IIT Kanpur (Hall-5).</p>
-            <h2>Experience</h2>
-            <h3>Junior Analyst</h3>
-            <h4>HSBC</h4>
-            <p>- Received a Pre-Placement Offer based on my performance in this internship
-- Designed a Production Credit (PC) calculation framework to better represent the value of client flow in FX option trades.
-- Replaces the current method of awarding a fixed percentage of the spread as PC to sales with a model that gives a PC value based on the P&L profile of the client and liquidity of the currency pair.
-- Worked closely with a team of FX options quant traders and e-trading quants to develop a novel half-life exponential decay model that captures PC for any aggregate P&L profile
-- Successfully demonstrated the model’s results with different tier combinations for the vast majority of the trade data
-- Refactored the codebase for integration into the company’s analytics chatbot, Sympricot</p>
+<html class="no-js" lang="en">
 
-            <h2>Skills</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
-            <h2>Projects</h2>
-            <a href="#">Project 1</a>
-            <a href="#">Project 2</a>
-            <a href="#">Project 3</a>
-            <a href="#">Project 4</a>
-            <a href="#">Project 5</a>
-            <h2>Contact</h2>
-            <p>myEmail@email.com</p>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My Portfolio</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="mobile-menu-open" class="shadow-large">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <!-- End #mobile-menu-toggle -->
+    <header>
+        <div id="mobile-menu-close">
+            <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <ul id="menu" class="shadow">
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+                <a href="#experience">Experience</a>
+            </li>
+            <li>
+                <a href="#education">Education</a>
+            </li>
+            <li>
+                <a href="#projects">Projects</a>
+            </li>
+            <li>
+                <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </header>
+    <!-- End header -->
+
+    <div id="lead">
+        <div id="lead-content">
+            <h1>Amartya Dash</h1>
+            <h2>Data Science & Finance</h2>
+            <a href="https://drive.google.com/file/d/1c8tm0b23gm8dXc9TzIW_S_zp68g6ZP9J/view?usp=sharing" target="_blank" class="btn-rounded-white">View Resume</a>
+        </div>
+        <!-- End #lead-content -->
+
+        <div id="lead-overlay"></div>
+
+        <div id="lead-down">
+            <span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+            </span>
+        </div>
+        <!-- End #lead-down -->
+    </div>
+    <!-- End #lead -->
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2 class="heading">About Me</h2>
+                </div>
+                <div class="col-md-8">
+                    <p>
+                        Completed B.Tech degree from IIT Kanpur and received a Pre-Placement Offer from an internship with HSBC Global Markets. Experienced in Data Science applications through the internship and projects. Skilled in Python, Pandas, Scikit-learn, and Keras. Worked in the Robotics and the Image Processing domain through a 2-year experience with Team Aerial Robotics IITK, with 1-year experience as Team Head (Technical).
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
-</body>
-</html>
+    <!-- End #about -->
 
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Experience</h2>
+        <div id="experience-timeline">
+            <div data-date="May 2021 – July 2021">
+                <!-- <div class="header">
+                    <img src="images/hsbc.png" alt="logo" />
+                    <h3 img src="images/hsbc.png" alt="logo">HSBC</h3>
+                  </div> -->
+                  
+                <h3>HSBC <link rel="icon" href="hsbc.ico" type="image/x-icon"> </h3>
+                <!-- <h3 style="display: inline;">HSBC <img style="display: inline; vertical-align:middle;"src="images/hsbc.png" alt="logo" width="40" height="18" /></h3> -->
+                <h4>Junior Analyst (Intern)</h4>
+                <p> <ul>
+<li>Recieved Pre-Placement Offer Based on the performance in this internship</li>
+<li>Designed a Production Credit (PC) calculation framework to better represent the value of client flow in FX option trades.</li>
+<li>Replaces the current method of awarding a fixed percentage of the spread as PC to sales with a model that gives a PC value based on the P&L profile of the client and liquidity of the currency pair.</li>
+<li>Worked closely with a team of FX options quant traders and e-trading quants to develop a novel half-life exponential decay model that captures PC for any aggregate P&L profile</li>
+<li>Refactored the codebase for integration into the company’s analytics chatbot, Sympricot </li>   </ul>            </p>
+            </div>
+
+            <!-- <div data-date="September 2015 – September 2016">
+                <h3>Employer Name</h3>
+                <h4>Job Title</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+
+            <div data-date="September 2015 – September 2016">
+                <h3>Employer Name</h3>
+                <h4>Job Title</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p> -->
+            </div>
+        </div>
+    </div>
+    <!-- End #experience -->
+
+    <div id="education">
+        <h2 class="heading">Education</h2>
+        <div class="education-block">
+            <h3>Indian Institute of Technology, Kanpur</h3>
+            <span class="education-date">June 2018 - June 2022</span>
+            <h4>B.Tech in Chemical Engineering <br>Minor in Industrial Management and Engineering</h4>
+            <p>
+                Grade: 8.9/10 <br>
+                Activities & Societies: Team Head at Aerial Robotics IITK, 2020-21 <br>
+                Honors & Awards: Gold Medal in Inter IIT Tech Meet 8.0
+
+            </p>
+        </div>
+        <!-- End .education-block -->
+
+        <div class="education-block">
+            <h3>Pace Junior Science College</h3>
+            <span class="education-date">May 2016 - April 2018</span>
+            <h4>12th Standard</h4>
+            <p>
+                Grade: 96.1%<br>
+                11th and 12th Standard, MSBSHSE
+            </p>
+        </div>
+
+        <div class="education-block">
+            <h3>DAV Public School, New Panvel</h3>
+            <span class="education-date">June 2015 - April 2016</span>
+            <h4>10th Standard</h4>
+            <p>
+                Grade: 10/10 <br>
+                CBSE
+            </p>
+        </div>
+        <!-- End .education-block -->
+    </div>
+    <!-- End #education -->
+
+    <div id="projects" class="background-alt">
+        <h2 class="heading">Projects</h2>
+        <div class="container">
+            <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/bcs.png" width="310" height="310" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Comparing DNN Features With Psychological Representations</h3>
+                        <!-- <p> <ul><li>Won the Best Research Award amongst 35+ projects and over 400 participants in SnT Summer Camp ‘20
+                        </li><li>Successfully reproduced the results in the paper ‘Adapting Deep Network Features to Capture Psychological Representations’
+                        </li><li>Applied a Ridge Regression on the feature-by-object matrix to obtain a similarity matrix with high R2 Performance
+                        </li><li>Extracted Deep Network Features from 120 images using both Keras & PyTorch models of VGG-16, GoogLeNet & AlexNet
+                        </li></ul></p> -->
+                        <p>
+                            Won the Best Research Award amongst 35+ projects and over 400 participants in SnT Summer Camp ‘20
+<br> Successfully reproduced the results in the paper ‘Adapting Deep Network Features to Capture Psychological Representations’
+<br> Applied a Ridge Regression on the feature-by-object matrix to obtain a similarity matrix with high R2 Performance
+<br> Extracted Deep Network Features from 120 images using both Keras & PyTorch models of VGG-16, GoogLeNet & AlexNet
+                        </p>
+                        <a href="https://drive.google.com/file/d/1Nb1h-xW8Xo9-kKHGt9CT8CoIPNVD7NWN/view?usp=sharing">Poster</a> | 
+                        <a href="https://drive.google.com/file/d/11xWKaTw-NQ5D_evJGyrGMbEtFqm5A5bh/view?usp=sharing">Report</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/sase.jpg" width="310" height="310"/>
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>D.R.D.O.’s SASE UAV Fleet Challenge</h3>
+                        <p>
+                            Inter IIT Tech Meet 8.0, IIT Roorkee<br>
+                            <br>
+Secured the 1st Position and the Gold Medal, with a perfect score of 400/400
+<br>Implemented a Swarm Architecture using the FKIE Multimaster framework for intra-fleet tracking of detected boxes
+<br>Worked with Mapping APIs (Bing Maps REST API, OpenLayers, Folium) to mark detected boxes on a map
+                        </p>
+                        <a href="https://github.com/AerialRobotics-IITK/inter_iit_uav_fleet">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/imav.png" width="310" height="310"/>
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>International Micro Aerial Vehicle Competition (IMAV), 2019</h3>
+                        <p>
+                            Madrid, Spain <br> <br>
+
+                            Amongst the top 15 teams selected globally for the Outdoor Challenge
+<br>Developed a fleet of MAVs capable of detecting mailboxes and delivering packages into them across an area of 30,000 sq.m
+<br>Implemented a robust Helipad Detection and landing framework for the mission
+<br>Carried out rigorous Hardware-Integration testing and handled the Ground Station operations during the competition
+                        </p>
+                        <a href="https://github.com/AerialRobotics-IITK/imav2019">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End #projects -->
+
+    <div id="skills">
+        <h2 class="heading">Skills</h2>
+        <ul>
+            <!-- <li>JavaScript</li> -->
+            <li>Python</li>
+            <li>C++</li>
+            <li>Machine Learning</li>
+            <li>Financial Engineering</li>
+            <li>Keras</li>
+            <li>scikit-learn</li>
+            <li>MATLAB</li>
+            <li>ROS</li>
+            <li>OpenCV</li>
+        </ul>
+    </div>
+    <!-- End #skills -->
+
+    <div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/work.amartyadash@gmail.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 copyright">
+                    <p>
+                        Copyright &copy; <span id="current-year">2022</span> Amartya Dash
+                    </p>
+                </div>
+                <div class="col-sm-2 top">
+                    <span id="to-top">
+                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                    </span>
+                </div>
+                <div class="col-sm-5 social">
+                    <ul>
+                        <li>
+                            <a href="https://github.com/amartyadash" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://stackoverflow.com/users/10301460/amartya-dash" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/amartya-dash-b25b90195/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/amartya.dash.9480" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/scripts.min.js"></script>
+</body>
+
+</html>
