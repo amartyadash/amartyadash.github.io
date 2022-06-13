@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 # title: Home
 ---
-<h2 align="center">
+<!-- <h2 align="center">
 Amartya Dash
 </h2>
 
@@ -21,5 +21,9 @@ Data Science & Finance
 |
 <img src="./images/aerial.png" alt="drawing" width="30" height="30"/>
 
-</p> 
+</p>  -->
 <!-- ![HSBC](./images/hsbc.png) -->
+# Amartya Dash
+* [x] Able to write all the navier-stokes equations extremely quickly 
+* [ ] Know what VaR is
+* [x] Read 900 chapters of One Piece
