@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Portfolio
+title: Home
 
 author: 
   name: Amartya Dash
   email: work.amartyadash@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Amartya Dash
+  Amartya Dash \| IITK \| HSBC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amartyadash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # linked: jekyllrb
