@@ -3,8 +3,9 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-### Junior Analyst (Intern) - HSBC
-#### May 2021 – July 2021
+### Junior Analyst (Intern) - HSBC <img src="../images/hsbc.png" alt="hsbc logo" width="50" height="25"/>
+<span style="color:gray">May 2021 - July 2021 </span>
+
 
 * Recieved Pre-Placement Offer Based on the performance in this internship
 * Designed a Production Credit (PC) calculation framework to better represent the value of client flow in FX option trades
