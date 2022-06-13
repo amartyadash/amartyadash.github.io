@@ -4,11 +4,6 @@
 
 layout: home
 # title: Home
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: images/lead-bg.jpg
 ---
 <!-- <h2 align="center">
 Amartya Dash
