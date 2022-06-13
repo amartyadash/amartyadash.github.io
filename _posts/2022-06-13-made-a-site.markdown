@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trying To Make A Site in 2022"
+title:  "Trying To Make A Site in 2022 🗿"
 date:   2022-06-13 15:28:18 +0530
 categories: general
 ---
