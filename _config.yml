@@ -24,7 +24,7 @@ author:
   email: work.amartyadash@gmail.com
 
 # description: >- # this means to ignore newlines until "baseurl:"
-  # 🍻
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # linked: jekyllrb
@@ -42,6 +42,7 @@ minima:
   social_links:
     github: amartyadash
     instagram: amartya.dash
+    stackoverflow: "10301460"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -23,7 +23,22 @@ Data Science & Finance
 
 </p>  -->
 <!-- ![HSBC](./images/hsbc.png) -->
-# Amartya Dash
+# **Amartya Dash**
+
+### TODO:
 * [x] Able to write all the navier-stokes equations extremely quickly 
 * [ ] Know what VaR is
 * [x] Read 900 chapters of One Piece
+* [ ] Move to Bengaluru (nice weather apparently)
+
+### About me:
+
+ - Interested in Finance & Data Science
+
+ - Currently working as Associate @ HSBC <img src="./images/hsbc.png" alt="hsbc logo" width="30" height="15"/>
+
+ - Y18 \| IITK \| Hall-5 
+
+ Find more at [about](./about)
+
+# Posts
