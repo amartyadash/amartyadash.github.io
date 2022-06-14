@@ -1,7 +1,6 @@
-Simple personal website using the below template as reference:
+# Portfolio Site
+Personal website made with Jekyll. Modified the basic Minima theme. 
 
-https://github.com/RyanFitzgerald/devportfolio
+Hosted on Github Pages.
 
-MIT License
-
-Copyright (c) 2020 Ryan Fitzgerald
+https://amartyadash.github.io
