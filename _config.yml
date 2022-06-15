@@ -46,7 +46,7 @@ minima:
     instagram: amartya.dash
     stackoverflow: "10301460"
     twitter: amartya_dash_
-  skin: dark
+  skin: classic
 
 show_excerpts: true
 
