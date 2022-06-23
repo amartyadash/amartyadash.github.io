@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://amartyadash.github.io/</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/about/</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/education/</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/experience/</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/projects/</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/resume.html</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/general/2022/06/13/made-a-site.html</loc>
+  <lastmod>2022-06-23T14:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/documents/12th.pdf</loc>
+  <lastmod>2022-06-23T14:21:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/documents/10th.pdf</loc>
+  <lastmod>2022-06-23T14:21:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/documents/ime.pdf</loc>
+  <lastmod>2022-06-23T14:21:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amartyadash.github.io/documents/resume.pdf</loc>
+  <lastmod>2022-06-23T14:21:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
