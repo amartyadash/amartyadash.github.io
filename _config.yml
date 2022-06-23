@@ -57,7 +57,7 @@ header_pages:
   - projects.md
   - resume.md
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: G-VS3KWRCD12
 
 defaults:
   - scope:
