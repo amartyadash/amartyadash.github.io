@@ -21,7 +21,6 @@ B.Tech in Chemical Engineering \| Minor in Industrial Management and Engineering
 
 * Grade: 96.1%
 * 11th and 12th Standard, MSBSHSE
-* <a href="../documents/12th.pdf" target="_blank">View Marksheet</a>
 
 
 ### [DAV Public School, New Panvel](https://davnewpanvel.com/)
@@ -31,4 +30,3 @@ B.Tech in Chemical Engineering \| Minor in Industrial Management and Engineering
 
 * Grade: 10/10
 * CBSE
-* <a href="../documents/10th.pdf" target="_blank">View Marksheet</a>
