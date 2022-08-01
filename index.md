@@ -26,10 +26,10 @@ Data Science & Finance
 # **Amartya Dash**
 
 ### TODO:
-* [x] Able to write all the navier-stokes equations extremely quickly 
-* [ ] Know what VaR is
-* [x] Read 900 chapters of One Piece
-* [ ] Move to Bengaluru (nice weather apparently)
+* [x] Get through engineering 
+* [x] Get through lockdown
+* [ ] Catch-up on One Piece
+* [ ] Move to Bangalore (nice weather)
 
 ### About me:
 
@@ -39,6 +39,8 @@ Data Science & Finance
 
  - Y18 \| IITK \| Hall-5 
 
- Find more at [about](./about)
+ Find more at [Education](./education) and [Experience](./experience)
+
+ Reach out to me on [LinkedIn](https://www.linkedin.com/in/amartya-dash-b25b90195/)
 
 # Posts
