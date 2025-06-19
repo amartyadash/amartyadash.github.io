@@ -23,24 +23,7 @@ Data Science & Finance
 
 </p>  -->
 <!-- ![HSBC](./images/hsbc.png) -->
-# **Amartya Dash**
-
-### TODO:
-* [x] Get through engineering 
-* [x] Get through lockdown
-* [ ] Catch-up on One Piece
-* [ ] Move to Bangalore (nice weather)
-
-### About me:
-
- - Interested in Finance & Data Science
-
- - Currently working as Associate @ HSBC <img src="./images/hsbc.png" alt="hsbc logo" width="30" height="15"/>
-
- - Y18 \| IITK \| Hall-5 
-
- Find more at [Education](./education) and [Experience](./experience)
-
- Reach out to me on [LinkedIn](https://www.linkedin.com/in/amartya-dash-b25b90195/)
+# ** Hi, I'm Amartya 👋**
+I'm working as a Quant Researcher in the Fixed Income world. Making this site to occasionally write my thoughts on Finance, Engineering and History (maybe)
 
 # Posts
