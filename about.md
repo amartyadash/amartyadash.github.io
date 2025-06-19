@@ -17,5 +17,5 @@ alt="profile-pic">
 </div>   
 <p>   
 <br>
-Currently working in HSBC Global Markets after completing my B.Tech degree from IIT Kanpur. Experienced in Data Science applications through the internship and projects. Skilled in Python, Pandas, scikit-learn, and Keras. Worked in the Robotics and the Image Processing domain through a 2-year experience with Team Aerial Robotics IITK, with 1-year experience as Team Head (Technical).
+Quant Researcher & Developer with more than 3 years of experience in Fixed Income Algo Trading. Strong background in programming, backtesting and alpha research.
 </p>
