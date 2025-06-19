@@ -9,7 +9,7 @@ permalink: /experience/
 * Building towards an in-house pricing model for all Global IG and EM (USD) Algo Trading
 
 
-### Junior Analyst (Intern) - HSBC <img src="../images/hsbc.png" alt="hsbc logo" width="50" height="25"/>
+### Junior Analyst - FX Options Trading, HSBC <img src="../images/hsbc.png" alt="hsbc logo" width="50" height="25"/>
 <span style="color:gray">May 2021 - July 2021 </span>
 
 * Recieved Pre-Placement Offer Based on the performance in this internship
