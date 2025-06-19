@@ -23,7 +23,7 @@ Data Science & Finance
 
 </p>  -->
 <!-- ![HSBC](./images/hsbc.png) -->
-# ** Hi, I'm Amartya **👋
+# Hi, I'm Amartya 👋
 I'm working as a Quant Researcher in the Fixed Income world. Making this site to occasionally write my thoughts on Finance, Engineering and History (maybe)
 
 # Posts
