@@ -1,4 +1,4 @@
-## What this repo is
+## What is this repo?
 
 This is a Jekyll site repository, built as a GitHub Pages-style site.
 
@@ -177,8 +177,3 @@ http://127.0.0.1:4000
 ## Important note
 
 This repo is currently using `jekyll` directly instead of the GitHub Pages gem. That’s fine for local build and deployment, but if you want exact GitHub Pages compatibility later, you may want to switch to the `github-pages` gem or use supported plugin versions.
-
-If you want, I can also show you:
-1. exactly where the page nav is built,
-2. how to add a new menu link,
-3. how to change the homepage content safely.
